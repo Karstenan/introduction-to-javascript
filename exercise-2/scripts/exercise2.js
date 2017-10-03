@@ -1,1 +1,1 @@
-alert('Hello from an external js file!')
+alert('Hello from an external js file!');
